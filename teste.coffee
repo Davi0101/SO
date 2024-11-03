@@ -1,9 +1,4 @@
-// Importando os pacotes
-const readlineSync = require('readline-sync');
-const dayjs = require('dayjs');
+import stdlib
 
-// Usando readline-sync para ler uma entrada do usuário
-const nome = readlineSync.question('Qual é o seu nome? ');
-
-// Usando dayjs para exibir a data atual
-console.log(`Olá, ${nome}! Hoje é ${dayjs().format('DD/MM/YYYY')}.`);
+x = 10:
+mostra x:
